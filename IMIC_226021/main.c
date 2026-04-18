@@ -5,6 +5,8 @@
 
 void main()
 {
+	function1_buoi1();
+	function2_buoi1();
 	bai1();
 	bai2();
 	bai3();

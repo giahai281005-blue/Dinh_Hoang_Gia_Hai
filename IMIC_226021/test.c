@@ -17,9 +17,9 @@ void tinhtoan()
 
 void test()
 {
-	char c = 0;
+	char x = 0;
 	printf("Nhap 1 ky tu tu ban phim:");
-	scanf(" %c", &c);
-	printf("thap phan: %d\n", c);
-	printf("thap luc phan: %x", c);
+	scanf(" %c", &x);
+	printf("thap phan: %d\n", x);
+	printf("thap luc phan: %x\n", x);
 }
