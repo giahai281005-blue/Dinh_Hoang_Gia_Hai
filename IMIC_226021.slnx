@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="IMIC_226021/IMIC_226021.vcxproj" />
+  <Project Path="IMIC_226021/IMIC_226021.vcxproj" Id="1b4399d8-3cc9-4405-b659-9afad4888913" />
 </Solution>

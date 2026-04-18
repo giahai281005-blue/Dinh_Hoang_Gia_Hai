@@ -1,3 +1,9 @@
 #pragma once
 void function1_buoi1();
 void function2_buoi1();
+void bai1();
+void bai2();
+void bai3();
+void bai4();
+void tinhtoan();
+void test();
